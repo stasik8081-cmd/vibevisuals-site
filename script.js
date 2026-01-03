@@ -175,8 +175,7 @@ function downloadMod() {
         showAuth('login');
         return;
     }
-    // Add actual download link here
-    alert('Скачивание начнётся автоматически...');
+    window.location.href = 'https://github.com/stasik8081-cmd/vibevisuals-site/releases/download/0.1/vibevisuals-0.1.jar';
 }
 
 // Translate errors
