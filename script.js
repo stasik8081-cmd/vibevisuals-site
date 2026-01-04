@@ -1,4 +1,4 @@
-const API = 'https://vibevisuals-api.onrender.com';
+const API = 'https://vibevisuals-api.vercel.app';
 
 let currentUser = null;
 let authToken = null;
